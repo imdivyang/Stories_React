@@ -1,0 +1,23 @@
+.my-story-container{
+    
+}
+
+.my-story-nav-bar{
+    background-color:white;
+    padding: 10px 30px 3px; 
+    box-shadow: -5px 10px 8px -7px rgba(0,0,0,0.35);
+}
+
+.my-story-company-logo img{
+    width: 200px;
+    border-radius: 10px;
+}
+
+.my-stories-container{
+    display: flex;
+    max-width: 1180px;
+    margin-inline: auto;
+    flex-direction: column;
+    gap: 50px;
+    margin-block: 50px;
+}
